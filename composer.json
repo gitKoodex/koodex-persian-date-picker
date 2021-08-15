@@ -1,0 +1,20 @@
+{
+    "name": "koodex/persiandatepicker",
+    "type": "project",
+    "description": "Minimal Laravel persian date picker",
+    "keywords": ["laravel", "persiandatepicker","datePicker"],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/gitKoodex/koodex-persian-date-picker/issues",
+        "source": "https://github.com/gitKoodex/koodex-persian-date-picker"
+    },
+    "authors": [
+        {
+            "name": "saman balahang",
+            "email": "perfumcorporation@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0"
+    }
+}
